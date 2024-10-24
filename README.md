@@ -1,2 +1,5 @@
-# it-school-weather-app-project2
-Weather app site from IT School web development course
+# itschool-weather
+The JS project from my web development course @ IT School
+
+## Demo
+The project is deployed here: https://itschool-weather.netlify.app/
